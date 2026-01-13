@@ -32,3 +32,14 @@ Feature importance analysis highlighted key factors influencing student success.
 ## How to Run
 1. Clone the repository
 2. Install dependencies:
+3. 3. Open `student_performance_prediction.ipynb`
+4. Run all cells
+
+## Future Improvements
+- Add real-time prediction API
+- Improve feature engineering
+- Integrate dashboard visualization
+
+## Author
+Nikhil Tummala
+
